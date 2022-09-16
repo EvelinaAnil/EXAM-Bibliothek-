@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Archive">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgIAAAAAAAAAEAAAggAAAAAAEAAgIIQACACAAAAA=</HashCode>
+      <FileName>Archive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bibliothek">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAhAAAEAABAAAAAAAAAAAAAAAgCgIAAQAACAAA=</HashCode>
+      <FileName>Bibliothek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Book">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgMAISACgAABEAAAAAoAEQAAEAAAAAQABAAAAAAA=</HashCode>
+      <FileName>Book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comics">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgIAAIBgAAAEEAAAAAIAAAAAEggAAEQAAAIAAAgA=</HashCode>
+      <FileName>Comics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAACAIBAAAAAAMAAFQQAAAAQAAgABGAAgAAQAQAQ=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magazine">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIkgIAAAAAIwEAEBAACAAAAAACEAAAAAQEAAAAAAAA=</HashCode>
+      <FileName>Magazine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newspaper">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoIAAAAAAAAAGIAAAAIAACIAEgAAAAQAIAgAAoAA=</HashCode>
+      <FileName>Newspaper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllExceptions" Collapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllExeptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IBSNException" Collapsed="true">
+    <Position X="13.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllExeptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DateException" Collapsed="true">
+    <Position X="16.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllExeptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\ШАГ\VisualNotCode\EXAM_NOT READY\EXAM_NOT READY\Source.cpp(22,9): warning C4101: a: неиспользованная локальная переменная
+E:\ШАГ\VisualNotCode\EXAM_NOT READY\EXAM_NOT READY\Source.cpp(13,21): warning C4101: seconds: неиспользованная локальная переменная
+E:\ШАГ\VisualNotCode\EXAM_NOT READY\EXAM_NOT READY\Source.cpp(13,12): warning C4101: minutes: неиспользованная локальная переменная
+E:\ШАГ\VisualNotCode\EXAM_NOT READY\EXAM_NOT READY\Source.cpp(13,6): warning C4101: hour: неиспользованная локальная переменная
+E:\ШАГ\VisualNotCode\EXAM_NOT READY\EXAM_NOT READY\Source.cpp(14,23): warning C4101: menu3: неиспользованная локальная переменная
+E:\ШАГ\VisualNotCode\EXAM_NOT READY\EXAM_NOT READY\Source.cpp(20,6): warning C4101: d: неиспользованная локальная переменная
+  EXAM_NOT READY.vcxproj -> E:\ШАГ\VisualNotCode\EXAM_NOT READY\x64\Debug\EXAM_NOT READY.exe
